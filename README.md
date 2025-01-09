@@ -8,21 +8,22 @@ In June 2020, Data Mart transitioned to sustainable packaging for all products, 
 ## Objective
 The objectives of this project are to:
 - Evaluate technical proficiency in SQL and data analysis.
-- Deliver actionable insights through ad-hoc queries and visualizations.
+- Deliver actionable insights through queries and Analysis.
 ## Datasets
 The datasets for this project include:
-- **Customer Product**: Information about customer products.
-- **Gross Price**: Data on product pricing.
-- **Pre-Invoice Deduction**: Details on pre-invoice deductions.
-- **Sales Monthly**: Monthly sales data.
-- **Manufacturing Cost**: Data on manufacturing costs.
-## Ad-Hoc Queries
-The project involved addressing 10 ad-hoc query requests, each aimed at answering specific business questions and providing valuable insights into the consumer goods sector.
+**week_date**: Represents the start of the sales week and helps in time-based aggregation of sales data.
+**region**: Identifies the geographic area of operation, helping to analyze sales and performance across regions.
+**platform**: Indicates whether the sale occurred through the retail or online (Shopify) platform, allowing for performance comparison.
+**customer_segment**: Categorizes customers based on their characteristics, essential for targeting and analyzing different market segments.
+**customer_type**: Classifies customers by age and demographic information, providing insights into different customer groups and preferences.
+**transactions**: Tracks the number of unique purchases, helping to gauge customer activity and sales volume.
+**sales**: Represents the dollar amount of purchases, the key metric for assessing revenue performance.
 ## Technical and Soft Skills
 ### Technical Skills
+- Data Modification
+- Data cleaning
 - SQL
 - Data Analysis
-- Data Visualization (Power BI)
 ### Soft Skills
 - Problem Solving
 - Analytical Thinking
