@@ -9,8 +9,8 @@ In June 2020, Data Mart transitioned to sustainable packaging for all products, 
 The objectives of this project are to:
 - Evaluate technical proficiency in SQL and data analysis.
 - Deliver actionable insights through queries and Analysis.
-## Datasets<br>
-The datasets for this project include:
+## Datasets
+The datasets for this project include:<br>
 **week_date**: Represents the start of the sales week and helps in time-based aggregation of sales data.
 **region**: Identifies the geographic area of operation, helping to analyze sales and performance across regions.
 **platform**: Indicates whether the sale occurred through the retail or online (Shopify) platform, allowing for performance comparison.
