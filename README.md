@@ -11,13 +11,13 @@ The objectives of this project are to:
 - Deliver actionable insights through queries and Analysis.
 ## Datasets
 The datasets for this project include:<br>
-**week_date**: Represents the start of the sales week and helps in time-based aggregation of sales data.
-**region**: Identifies the geographic area of operation, helping to analyze sales and performance across regions.
-**platform**: Indicates whether the sale occurred through the retail or online (Shopify) platform, allowing for performance comparison.
-**customer_segment**: Categorizes customers based on their characteristics, essential for targeting and analyzing different market segments.
-**customer_type**: Classifies customers by age and demographic information, providing insights into different customer groups and preferences.
-**transactions**: Tracks the number of unique purchases, helping to gauge customer activity and sales volume.
-**sales**: Represents the dollar amount of purchases, the key metric for assessing revenue performance.
+**week_date**: Represents the start of the sales week and helps in time-based aggregation of sales data.<br>
+**region**: Identifies the geographic area of operation, helping to analyze sales and performance across regions.<br>
+**platform**: Indicates whether the sale occurred through the retail or online (Shopify) platform, allowing for performance comparison.<br>
+**customer_segment**: Categorizes customers based on their characteristics, essential for targeting and analyzing different market segments.<br>
+**customer_type**: Classifies customers by age and demographic information, providing insights into different customer groups and preferences.<br>
+**transactions**: Tracks the number of unique purchases, helping to gauge customer activity and sales volume.<br>
+**sales**: Represents the dollar amount of purchases, the key metric for assessing revenue performance.<br>
 ## Technical and Soft Skills
 ### Technical Skills
 - Data Modification
