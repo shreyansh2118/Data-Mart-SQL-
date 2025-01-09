@@ -1,4 +1,4 @@
-# Consumer-Goods-Ad-Hoc-Analysis
+# Data Mart sales performance Analysis
 
 ## Overview
 The **Data Mart sales Analysis** project addresses various requests related to there Mart. The goal was to provide insightful answers to business questions using SQL.
